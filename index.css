@@ -9,18 +9,15 @@ body
     position: fixed; 
     overflow-y: scroll;
     width: 100%;
+}
 
-body {
+html {
     background: url(bg.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-}
-
-body {
-    background-color:#420782
 }
 
 }
@@ -56,17 +53,17 @@ footer {
 a:link {
     color:#050c49;
     background-color:transparent;
-    text-decoration:none
+    text-decoration:none;
     }
     
 a:visited {
     color:black;
     background-color:transparent;
-    text-decoration:none
+    text-decoration:none;
     }
     
 a:hover {
     color:#ff3333;
     background-color:transparent;
-    text-decoration:none
+    text-decoration:none;
     }	
